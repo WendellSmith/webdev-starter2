@@ -24,3 +24,4 @@ Understand the semantics of HTML
 Knowing that you accomplish the same thing with many types of elements but being able to distinguish when to use certain elements and when not
 Know how to use resources like MDN and W3Schools to support learning experience
 # 02-HTML-FUNDAMENTALS
+# 02-HTML-FUNDAMENTALS
